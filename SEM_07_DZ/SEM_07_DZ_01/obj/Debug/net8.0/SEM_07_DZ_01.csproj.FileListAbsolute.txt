@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\obj\Debug\net8.0\SEM_07_DZ_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\obj\Debug\net8.0\SEM_07_DZ_01.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\obj\Debug\net8.0\SEM_07_DZ_01.AssemblyInfo.cs
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\obj\Debug\net8.0\SEM_07_DZ_01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\bin\Debug\net8.0\SEM_07_DZ_01.exe
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\bin\Debug\net8.0\SEM_07_DZ_01.deps.json
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\bin\Debug\net8.0\SEM_07_DZ_01.runtimeconfig.json
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\bin\Debug\net8.0\SEM_07_DZ_01.dll
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\bin\Debug\net8.0\SEM_07_DZ_01.pdb
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\obj\Debug\net8.0\SEM_07_DZ_01.dll
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\obj\Debug\net8.0\refint\SEM_07_DZ_01.dll
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\obj\Debug\net8.0\SEM_07_DZ_01.pdb
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\obj\Debug\net8.0\SEM_07_DZ_01.genruntimeconfig.cache
+C:\Users\User\Desktop\SEM_07_DZ\SEM_07_DZ_01\obj\Debug\net8.0\ref\SEM_07_DZ_01.dll
